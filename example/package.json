@@ -1,0 +1,15 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "translate": "excel-vue-i18n -f=./translations.xlsx -o=src/locales"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nurbek0298/excel-vue-i18n": "github:nurbek0298/excel-vue-i18n"
+  }
+}

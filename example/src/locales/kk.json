@@ -1,0 +1,11 @@
+{
+  "upload": {
+    "limit_message": "{fileName} {limit} мб артық болмауы тиіс",
+    "remove_question": "Сіз құжатты өшіруге сенімдісіз бе?"
+  },
+  "auth": {
+    "title": "Өз байланыс нөміріңізді растаңыз",
+    "request_code": "Sms-кодты жіберу",
+    "confirm": "Растау"
+  }
+}
