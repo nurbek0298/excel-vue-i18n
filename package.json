@@ -1,0 +1,31 @@
+{
+  "name": "@nurbek0298/excel-vue-i18n",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Генерирует перевод из Excel в json файлы для Vue I18n",
+  "author": "ibraevnurbek98@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "yargs": "^17.3.1"
+  },
+  "keywords": [
+    "excel",
+    "i18n",
+    "vuei18n",
+    "excel to vue i18n json"
+  ],
+  "files": [
+    "cli.js",
+    "lib"
+  ],
+  "bin": "./cli.js",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nurbek0298/excel-vue-i18n.git"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
